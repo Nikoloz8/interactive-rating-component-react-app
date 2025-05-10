@@ -1,6 +1,5 @@
 import "./MainCard.css"
 import Star from "../../assets/icon-star.svg"
-import { useState } from "react"
 
 export default function Card({ isVisible, setVisible, SetValue, Value}) {
     
